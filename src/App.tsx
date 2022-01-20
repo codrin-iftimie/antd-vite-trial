@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       {t("Something")}
-    {/* <Cron value={value} setValue={setValue}/> */}
+      <Cron value={value} setValue={setValue}/>
     </>
   )
 }
