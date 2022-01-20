@@ -4,7 +4,7 @@ Steps to reproduce:
 
 ```
 npm run build
-npx serve dist
+npx serve dist / npm run preview
 ```
 
 Note: `npm run dev` works ok
